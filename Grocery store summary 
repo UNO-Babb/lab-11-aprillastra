@@ -1,0 +1,4 @@
+First I ran the stimulation with total items from (5, 20) and total run time of 3 hours
+I tested the stimulation with 2 checkers and got an average wait time of 1.84 minutes and an idle time of 206 minutes.  
+Then I tested it with 20 checkers and got an average wait time of 1.83 minutes and a total idle time of 3441 minutes. 
+Adding more checkers didnt didnt improve the customer's experience, but instead increased the idle time and wasted resources 
